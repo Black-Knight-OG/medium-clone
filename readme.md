@@ -1,1 +1,1 @@
-# Mediun-clone
+# Medium-clone
